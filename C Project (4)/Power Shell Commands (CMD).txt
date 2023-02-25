@@ -1,0 +1,1 @@
+PS C:\Users\huawei> cd "c:\Users\huawei\Desktop\Project\Final\" ; if ($?) { gcc 150120998_Prj2.c -o 150120998_Prj2 } ; if ($?) { .\150120998_Prj2 }
